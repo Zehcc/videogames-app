@@ -88,7 +88,6 @@ input::placeholder {
 header {
     background-color: #232946;
     padding-bottom: 30px;
-    
 }
 
 .consolesMain {
@@ -104,10 +103,10 @@ header {
     display: flex;
     flex-direction: row;
     width: 100%;
-    height: 250px;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
+    padding-top: 30px;
 }
 
 .fullImg {
